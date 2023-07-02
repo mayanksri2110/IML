@@ -1,0 +1,16 @@
+﻿conda create --name myen
+
+
+conda activate myen
+
+
+source activate myen
+
+
+conda install numpy matplotlib scipy opencv
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+import scipy.stats as stats 
+import cv2

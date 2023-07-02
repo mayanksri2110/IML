@@ -1,0 +1,17 @@
+﻿conda create --name myen
+
+
+conda activate myen
+
+
+source activate myen
+
+
+conda install numpy
+
+
+conda install matplotlib
+
+
+import numpy
+import matplotlib
